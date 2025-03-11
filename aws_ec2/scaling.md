@@ -1,4 +1,4 @@
-# Scaling in Amazon Elastic Cloud Computing (EC2)
+# Scaling in Amazon Elastic Compute Cloud (EC2)
 
 Prevents idle resources or not having them.
 

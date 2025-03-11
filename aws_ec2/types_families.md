@@ -1,4 +1,4 @@
-# Elastic Cloud Computing (EC2) Types And Families
+# Elastic Compute Cloud (EC2) Types And Families
 
 Each EC2 instance type is grouped under an instance family and are optimized for certain types of tasks.
 

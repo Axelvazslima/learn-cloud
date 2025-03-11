@@ -1,4 +1,4 @@
-# Amazon Elastic Cloud Computing (EC2) Pricing
+# Amazon Elastic Compute Cloud (EC2) Pricing
 
 You pay only for the compute time that you use and the price differs based on use cases.
 
