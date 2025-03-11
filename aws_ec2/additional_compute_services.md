@@ -18,6 +18,12 @@ The service waits for the trigger -> code is ran when it is triggered.
 
 Run code below 15 minutes -> quick processing, like web back end handling requests.
 
+> Pay for the compute time you use -> running code.
+
+Run code for virtually any type of application or backend service, all with zero administration.
+
+Example: Function that envolves resizing uploaded images to te AWS Cloud.
+
 ### Amazon Elastic Container Services (ECS) or Amazon Elastic Kubernets Service (EKS) 
 
 In case you need access to the underlying infrastructure, but still want efficiency and portability.
